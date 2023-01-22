@@ -5,7 +5,7 @@ In this project Excel Dashboard is made from a source data of a Company where Pr
 
 Step 1	Format source data in an Excel Table - CTRL+T				
 					
-Step 2	Dashboard PivotTable				
+Step 2	Created Dashboard PivotTable				
 					
 Step 3	Insert Table for Tasks Bar Chart 				
 					
